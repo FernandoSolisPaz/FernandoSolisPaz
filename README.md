@@ -22,9 +22,7 @@ I am a passionate software developer with experience in a wide types of programi
 
 ## Recent Projects
 
-- [Project 1](https://github.com/FernandoSolisPaz/project1) - Brief description of project 1
-- [Project 2](https://github.com/FernandoSolisPaz/project2) - Brief description of project 2
-- [Project 3](https://github.com/FernandoSolisPaz/project3) - Brief description of project 3
+- [Project 1](https://github.com/FernandoSolisPaz/Tingeso_2) - A web proyect with a variety of technologies
 
 ## Connect with Me
 - [Email](mailto:fernando.solis.p@usach.cl)
